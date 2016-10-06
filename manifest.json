@@ -1,0 +1,10 @@
+{
+   "content_scripts": [ {
+      "js": ["content.js" ],
+      "matches": ["*://stackoverflow.com/questions/*"]
+   } ],
+   "manifest_version": 2,
+   "name": "stackoverflow-favorite-as-history",
+   "permissions": [ "tabs"],
+   "version": "1.0"
+}
