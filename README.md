@@ -1,4 +1,4 @@
 # stackoverflow-favorite-as-history
-A chrome extension that favorite every questions you viewed on stackoverflow.com, so that favorites list can work like your view history. For example: https://stackoverflow.com/users/3317931/scott?tab=favorites
+A chrome extension that stars every questions you viewed on stackoverflow.com, so that favorites list can work like your view history. For example: https://stackoverflow.com/users/3317931/scott?tab=favorites
 
 Inspired by: [https://meta.stackexchange.com/questions/78099/personal-history-of-recently-viewed-questions](https://meta.stackexchange.com/questions/78099/personal-history-of-recently-viewed-questions)
