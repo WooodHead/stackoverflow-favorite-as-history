@@ -3,5 +3,9 @@ A chrome extension that stars every question you viewed on stackoverflow.com, so
 
 Inspired by: [https://meta.stackexchange.com/questions/78099/personal-history-of-recently-viewed-questions](https://meta.stackexchange.com/questions/78099/personal-history-of-recently-viewed-questions)
 
+# Install
+
+## Chrome web store
+https://chrome.google.com/webstore/detail/stackoverflow-favorite-as/iaoghjfbfbfdkbcldeamjiiolkdacmdd?hl=zh-CN
 
 ![](images/demo.gif)
