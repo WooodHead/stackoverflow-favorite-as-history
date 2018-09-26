@@ -1,10 +1,14 @@
 {
-   "content_scripts": [ {
-      "js": ["content.js" ],
-      "matches": ["*://stackoverflow.com/questions/*","*://*.stackexchange.com/questions/*"]
-   } ],
-   "manifest_version": 2,
-   "name": "stackoverflow-favorite-as-history",
-   "permissions": [ "tabs"],
-   "version": "1.0"
+  "content_scripts": [{
+    "js": ["content.js"],
+    "matches": ["*://stackoverflow.com/questions/*", "*://*.stackexchange.com/questions/*"]
+  }],
+  "icons": {
+    "16": "images/icon.png",
+    "128": "images/icon.png"
+  },
+  "manifest_version": 2,
+  "name": "stackoverflow-favorite-as-history",
+  "permissions": ["tabs"],
+  "version": "0.1.0"
 }
