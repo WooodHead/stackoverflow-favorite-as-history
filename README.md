@@ -6,6 +6,6 @@ Inspired by: [https://meta.stackexchange.com/questions/78099/personal-history-of
 # Install
 
 ## Chrome web store
-https://chrome.google.com/webstore/detail/stackoverflow-favorite-as/iaoghjfbfbfdkbcldeamjiiolkdacmdd?hl=zh-CN
+https://chrome.google.com/webstore/detail/stackoverflow-favorite-as/iaoghjfbfbfdkbcldeamjiiolkdacmdd
 
 ![](images/demo.gif)
