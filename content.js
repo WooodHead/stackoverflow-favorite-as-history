@@ -2,7 +2,7 @@
 
 (function () {
     setTimeout(() => {
-        const button = document.querySelector('#question button.js-favorite-btn')
+        const button = document.querySelector('.js-bookmark-btn')
         const isStared = document.querySelector('.fc-yellow-600')
         if (!isStared) {
             button.click();
